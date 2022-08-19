@@ -2,7 +2,7 @@
 
 <ul>
   <li>🔭 Desenvolvedor frontend</li>
-  <li>💬 Focado em tecnologias Javascript, ReactJS e NodeJS</li>
+  <li>💬 Focado nas tecnologias Tailwind, ReactJS e Nextjs</li>
 </ul>
 
 
