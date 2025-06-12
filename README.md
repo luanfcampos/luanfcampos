@@ -31,9 +31,9 @@
 
 ## 📊 Estatísticas GitHub
 
-![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&count_private=true)
+![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanfcampos&show_icons=true&theme=dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanfcampos&layout=compact&theme=dark)
 
 
 ## 📫 Vamos nos conectar!
